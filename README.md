@@ -9,8 +9,8 @@
 提供了一个exe文件方便直接操纵。
 
 运行结果，会看到这样的画面：
-
-输入初始化配置文件，提供的示例为:inputconf.txt
+![](C:\Users\hmx\Desktop\a.png)
+输入初始化配置文件，提供的示例为：inputconf.txt
 内容是一个矩阵，如下：
 $$
 \begin{matrix}
